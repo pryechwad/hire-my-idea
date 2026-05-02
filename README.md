@@ -1,6 +1,21 @@
 # Olive Food Scanner App — Landing Page
 
-A pixel-faithful recreation of the Olive Food Scanner marketing website, built as a static React frontend. The project replicates all sections of the original site including animations, layout, typography, and color system.
+## Assignment Overview
+
+This project is a front-end development assignment to recreate the [Olive Food Scanner](https://oliveapp.com) marketing landing page as a static React application. The goal is to produce a pixel-faithful clone of the original website, replicating all sections, animations, layout structure, typography, and color system using modern front-end tooling.
+
+### Assignment Objectives
+
+- Recreate a real-world production landing page from a live reference
+- Demonstrate component-based architecture using React
+- Apply responsive layout techniques using Tailwind CSS utility classes
+- Implement CSS keyframe animations without any third-party animation libraries
+- Match the original design system including colors, spacing, and typography
+- Structure the codebase in a clean, maintainable, and scalable way
+
+### Reference Site
+
+The original design is taken from [oliveapp.com](https://oliveapp.com). All sections, visual elements, and content are replicated for educational and portfolio purposes only.
 
 ---
 
