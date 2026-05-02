@@ -12,6 +12,8 @@ import Pricing from './components/Pricing'
 import FoodCarousel from './components/FoodCarousel'
 import Independent from './components/Independent'
 import FAQ from './components/FAQ'
+import FamilySafety from './components/FamilySafety'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -30,6 +32,8 @@ function App() {
         <FoodCarousel />
         <Independent />
         <FAQ />
+        <FamilySafety />
+        <Footer />
       </main>
     </div>
   )
