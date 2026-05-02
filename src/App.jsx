@@ -8,6 +8,10 @@ import ProactiveFiltering from './components/ProactiveFiltering'
 import RealHealthOutcomes from './components/RealHealthOutcomes'
 import RealMothers from './components/RealMothers'
 import ComparisonTable from './components/ComparisonTable'
+import Pricing from './components/Pricing'
+import FoodCarousel from './components/FoodCarousel'
+import Independent from './components/Independent'
+import FAQ from './components/FAQ'
 
 function App() {
   return (
@@ -22,6 +26,10 @@ function App() {
         <RealHealthOutcomes />
         <RealMothers />
         <ComparisonTable />
+        <Pricing />
+        <FoodCarousel />
+        <Independent />
+        <FAQ />
       </main>
     </div>
   )
