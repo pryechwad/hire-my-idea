@@ -1,4 +1,4 @@
-## Hire my idea Assignment
+## Hire my idea Full Stack Developer Assignment
 
 ## Assignment Overview
 
