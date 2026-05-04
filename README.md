@@ -1,4 +1,4 @@
-# Olive Food Scanner App — Landing Page
+## Hire my idea Assignment
 
 ## Assignment Overview
 
